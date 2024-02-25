@@ -2,7 +2,6 @@
   "name": "ecommerce-api",
   "version": "0.0.1",
   "description": "An API for ecommerce works built using NodeJS & MongoDB",
-  "author": "Mahmoud Yasser",
   "license": "ISC",
   "engines": {
     "node": ">=18.0.0"
