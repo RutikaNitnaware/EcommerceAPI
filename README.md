@@ -62,7 +62,7 @@
 
 ## Known Bugs
 
-Feel free to email me at mle.mahmoud.yasser@gmail.com if you run into any issues or have questions, ideas or concerns.
+Feel free to email me at rutikadninaware@gmail.com if you run into any issues or have questions, ideas or concerns.
 Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
 
 ## Contributing
